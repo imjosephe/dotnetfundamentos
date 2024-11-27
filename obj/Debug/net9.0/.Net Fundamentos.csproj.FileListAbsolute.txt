@@ -1,0 +1,14 @@
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\bin\Debug\net9.0\.Net Fundamentos.exe
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\bin\Debug\net9.0\.Net Fundamentos.deps.json
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\bin\Debug\net9.0\.Net Fundamentos.runtimeconfig.json
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\bin\Debug\net9.0\.Net Fundamentos.dll
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\bin\Debug\net9.0\.Net Fundamentos.pdb
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\.Net Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\.Net Fundamentos.AssemblyInfoInputs.cache
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\.Net Fundamentos.AssemblyInfo.cs
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\.Net Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\.Net Fundamentos.dll
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\refint\.Net Fundamentos.dll
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\.Net Fundamentos.pdb
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\.Net Fundamentos.genruntimeconfig.cache
+C:\Users\josed\OneDrive\Documentos\Projetos\.Net Fundamentos\obj\Debug\net9.0\ref\.Net Fundamentos.dll
